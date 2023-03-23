@@ -1,0 +1,50 @@
+h1 {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+#inicio {
+    border-style: solid;
+    margin: auto;
+    color: grey;
+    background-color: pink;
+
+}
+img {
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+}
+p {
+    color: black;
+    text-align: center;
+}
+button {
+    display: block;
+    margin: auto;
+}
+#menu {
+    background-color: pink;
+    width: 30%;
+    float: left;
+    position: relative;
+   
+}
+#info {
+    background-color: lightblue;
+    width: 60%;
+    float: right;
+    position: relative;
+    padding-right: 10%;
+}
+
+#datos {
+    display: none;
+}
+#formacion {
+    display: none;
+}
+
+#experiencia {
+    display: none;
+}
